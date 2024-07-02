@@ -7,7 +7,7 @@
 #Connect to AGOL account
 from arcgis.gis import GIS
 import arcgis.features
-gis=GIS("http://frontiergis.maps.arcgis.com/", "KarissaM", "!A81ee883f")
+gis=GIS("http://frontiergis.maps.arcgis.com/", "username", "!password")
 
 
 # In[29]:
